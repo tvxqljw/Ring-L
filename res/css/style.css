@@ -75,7 +75,6 @@ h3{
   margin: 0 auto;
   width: 80%;
   height: auto;
-  padding: 5% 0;
   text-align: left;
 }
 
@@ -116,7 +115,7 @@ h3{
 .aTitle{
   width: 100%;
   text-align: left;
-  font-size: 16,px;
+  font-size: 18px;
   color: #000;
   font-weight: bold;
 
