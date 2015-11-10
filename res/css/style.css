@@ -67,7 +67,7 @@ h3{
 .divHeader{
   margin: 0 auto;
   width: 100%;
-  height: 100%;
+  height: auto;
   text-align: center;
 }
 
@@ -116,7 +116,7 @@ h3{
 .aTitle{
   width: 100%;
   text-align: left;
-  font-size: 16px;
+  font-size: 16,px;
   color: #000;
   font-weight: bold;
 
