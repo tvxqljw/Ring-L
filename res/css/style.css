@@ -106,6 +106,21 @@ h3{
   width: 50%;
 }
 
+footer{
+  background: #000;
+  padding: 0;
+  margin:0;
+  color: #fff;
+  text-align: center;
+  
+}
+
+footer p{
+  padding: 2%;
+  color: #fff;
+  font-size: 12px;
+}
+
 /*responsive*/
 @media screen and (min-width: 1025px){
   .titleImg{
