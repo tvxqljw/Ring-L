@@ -71,12 +71,21 @@ h3{
   text-align: center;
 }
 
+
+
 .divDescription{
   margin: 0 auto;
   width: 80%;
   height: auto;
   text-align: left;
 }
+
+
+.BTitle{
+  width: 100%;
+  padding: 2%;
+}
+
 
 .titleImg{
   margin: 0 auto;
@@ -116,10 +125,15 @@ h3{
 .aTitle{
   width: 100%;
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   color: #000;
   font-weight: bold;
 
+}
+
+
+.images{
+  width: 100%;
 }
 
 footer{
@@ -138,9 +152,6 @@ footer p{
   font-size: 12px;
 }
 
-.images{
-  width: 100%;
-}
 
 /*responsive*/
 @media screen and (min-width: 1025px){
