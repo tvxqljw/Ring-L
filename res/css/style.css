@@ -113,6 +113,15 @@ h3{
   padding: 1%;
 }
 
+.aTitle{
+  width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-weight: bold;
+
+}
+
 footer{
   background: #000;
   padding: 0;
